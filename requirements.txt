@@ -1,0 +1,2 @@
+1 - pip install fastapi uvicorn pillow tensorflow numpy
+2 -
