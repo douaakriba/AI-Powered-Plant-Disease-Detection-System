@@ -118,7 +118,7 @@ models/
 |---|---|---|
 | Backend | Python 3.x + Flask 3.0.3 | REST API, routing |
 | Cross-Origin | Flask-CORS | Cross-origin request handling |
-| AI Engine | TensorFlow 2.21 + tf_keras | CNN disease detection |
+| AI Engine | TensorFlow 2.10 + tf_keras | CNN disease detection |
 | Image Processing | Pillow (PIL) + NumPy | Preprocessing to 224×224 px |
 | Auth | PyJWT + hashlib + secrets | JWT tokens, password hashing |
 | Database | SQLite | Embedded, serverless DB |
