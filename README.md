@@ -210,9 +210,8 @@ Password: PhytoAdmin2024!
 ---
 
 ## 📸 Screenshots
-
+## ✨ farmer interface
 ![Screenshot 348](Screenshot%20(348).png)
-![Screenshot 349](Screenshot%20(349).png)
 ![Screenshot 350](Screenshot%20(350).png)
 ![Screenshot 351](Screenshot%20(351).png)
 ![Screenshot 352](Screenshot%20(352).png)
@@ -222,6 +221,7 @@ Password: PhytoAdmin2024!
 ![Screenshot 356](Screenshot%20(356).png)
 ![Screenshot 357](Screenshot%20(357).png)
 ![Screenshot 358](Screenshot%20(358).png)
+## ✨ admin interface 
 ![Screenshot 359](Screenshot%20(359).png)
 ![Screenshot 360](Screenshot%20(360).png)
 ![Screenshot 361](Screenshot%20(361).png)
