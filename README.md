@@ -1,5 +1,5 @@
 # 🌿 PhytoSentinel
-### Système Intelligent de Détection et de Suivi des Maladies des Plantes
+### Système Intelligent de classification des Maladies des Plantes
 
 > Developed at the **Direction des Services Agricoles (DSA) de Guelma**, Algeria  
 
